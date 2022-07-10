@@ -1,0 +1,8 @@
+{
+    "discord":{
+        "owner_id": "198428748712771584",
+        "command_prefix": "-",
+        "token": "",
+        "bot_admins": []
+    }
+}
